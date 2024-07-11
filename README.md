@@ -26,15 +26,19 @@ Acompanhamento de Resultados: Monitorei de perto o desempenho da equipe, identif
     <img aling="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
     </div><br/>
 
-## DevOps
+✅ **Ferramentas:** JUnit, Eclipse, Visual Studio Code, Git, GitHub, Jira e Postman
+*Marca Pessoal:**
 
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-    <img aling="center" alt="azure" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
-    <img aling="center" alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-    <img aling="center" alt="git" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-    <img aling="center" alt="git" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-    <img aling="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img aling="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    <img aling="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</div><br/>
+1.  **Proatividade e Autonomia:**
+    -   Sou um profissional proativo e autônomo, que busca soluções inovadoras e toma decisões com segurança.
+2.  **Aprendizado Contínuo:**
+    -   Tenho grande paixão por aprender e me mantenho atualizado com as últimas tendências do mercado.
+3.  **Comunicação Eficaz:**
+    -   Tenho vasta experiência em comunicar em equipe, público e em reuniões. Comunico-me de forma clara, objetiva e assertiva, tanto na comunicação escrita quanto oral.
+4.  **Trabalho em Equipe:**
+    -   Acredito no poder da colaboração e trabalho de forma integrada com a equipe para alcançar objetivos comuns.
+
+  ##### Você me encontra em:
+  <a href="https://www.linkedin.com/in/gabriel-quinhonero-759516178/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
