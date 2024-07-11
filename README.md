@@ -10,10 +10,9 @@ Apaixonado por desafios e aprendizado contínuo, sou um profissional proativo qu
 🔍 **Minha experiência:**
  Especialista em testes: Possuo vasta experiência na realização de testes manuais e automatizados, utilizando diferentes metodologias e ferramentas.
  Metodologias ágeis: Atuei em projetos com metodologia Scrum, participando ativamente de todas as cerimônias (Planning, Daily, Retro e Review).
+ 
  Possuo conhecimento avançado no Pacote Office
-
 Criação de Relatórios: Desenvolvi relatórios detalhados para monitorar o desempenho da equipe, utilizando métricas-chave para identificar áreas de melhoria.
-
 Acompanhamento de Resultados: Monitorei de perto o desempenho da equipe, identificando padrões e tendências para orientar decisões estratégicas.
 
 ## Linguagens de programação
